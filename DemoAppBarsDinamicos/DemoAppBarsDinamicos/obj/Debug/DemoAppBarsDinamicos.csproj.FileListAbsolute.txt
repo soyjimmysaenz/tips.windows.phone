@@ -1,0 +1,16 @@
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\ApplicationIcon.png
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\Background.png
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\DemoAppBarsDinamicos.dll
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\DemoAppBarsDinamicos.pdb
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\AppManifest.xaml
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\DemoAppBarsDinamicos.xap
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\obj\Debug\App.g.i.cs
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\obj\Debug\MainPage.g.i.cs
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\obj\Debug\DemoAppBarsDinamicos.g.resources
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\obj\Debug\DemoAppBarsDinamicos.dll
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\obj\Debug\DemoAppBarsDinamicos.pdb
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\obj\Debug\XapCacheFile.xml
+C:\Users\yesezdev\Documents\Visual Studio 2010\Projects\WindowsPhone\DemoAppBarsDinamicos\DemoAppBarsDinamicos\Bin\Debug\icons\appbar.new.rest.png
