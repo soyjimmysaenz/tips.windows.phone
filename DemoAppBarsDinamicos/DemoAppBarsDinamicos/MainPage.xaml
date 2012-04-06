@@ -6,7 +6,6 @@
                             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                             xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
                             xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
-                            ApplicationBar="{StaticResource appbar1}"
                             d:DesignHeight="768"
                             d:DesignWidth="480"
                             FontFamily="{StaticResource PhoneFontFamilyNormal}"
@@ -16,6 +15,32 @@
                             shell:SystemTray.IsVisible="True"
                             SupportedOrientations="Portrait"
                             mc:Ignorable="d">
+    <UserControl.Resources>
+
+        <shell:ApplicationBar x:Key="appbar1"
+                              IsMenuEnabled="True"
+                              IsVisible="True">
+            <shell:ApplicationBarIconButton Click="elem1_Click"
+                                            IconUri="/icons/appbar.new.rest.png"
+                                            Text="Panorama 1" />
+        </shell:ApplicationBar>
+
+        <shell:ApplicationBar x:Key="appbar2"
+                              IsMenuEnabled="True"
+                              IsVisible="True">
+            <shell:ApplicationBarIconButton IconUri="/icons/appbar.new.rest.png" Text="Panorama 2" />
+        </shell:ApplicationBar>
+
+        <shell:ApplicationBar x:Key="appbar3"
+                              IsMenuEnabled="True"
+                              IsVisible="True">
+            <shell:ApplicationBarIconButton IconUri="/icons/appbar.new.rest.png" Text="Panorama 3" />
+        </shell:ApplicationBar>
+
+    </UserControl.Resources>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <StaticResource ResourceKey="appbar1" />
+    </phone:PhoneApplicationPage.ApplicationBar>
 
     <!--  LayoutRoot is the root grid where all page content is placed  -->
     <Grid x:Name="LayoutRoot" Background="Transparent">

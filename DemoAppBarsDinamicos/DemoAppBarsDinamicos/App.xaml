@@ -5,27 +5,6 @@
              xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone">
 
     <!--  Application Resources  -->
-    <Application.Resources>
-        <shell:ApplicationBar x:Key="appbar1"
-                              IsMenuEnabled="True"
-                              IsVisible="True">
-            <shell:ApplicationBarIconButton IconUri="/icons/appbar.new.rest.png" Text="Panorama 1" />
-        </shell:ApplicationBar>
-
-        <shell:ApplicationBar x:Key="appbar2"
-                              IsMenuEnabled="True"
-                              IsVisible="True">
-            <shell:ApplicationBarIconButton IconUri="/icons/appbar.new.rest.png" Text="Panorama 2" />
-        </shell:ApplicationBar>
-
-        <shell:ApplicationBar x:Key="appbar3"
-                              IsMenuEnabled="True"
-                              IsVisible="True">
-            <shell:ApplicationBarIconButton IconUri="/icons/appbar.new.rest.png" Text="Panorama 3" />
-        </shell:ApplicationBar>
-
-    </Application.Resources>
-
     <Application.ApplicationLifetimeObjects>
         <!--  Required object that handles lifetime events for the application  -->
         <shell:PhoneApplicationService Activated="Application_Activated"

@@ -31,7 +31,13 @@ namespace DemoAppBarsDinamicos
 
         private void PanoramaPrinc_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {            
-            ApplicationBar = ((ApplicationBar)Application.Current.Resources[this.AppBars[this.PanoramaPrinc.SelectedIndex]]);
+            ApplicationBar = ((ApplicationBar)Resources[this.AppBars[this.PanoramaPrinc.SelectedIndex]]);
         }
+
+        private void elem1_Click(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Pagina2.xaml", UriKind.Relative));
+        }	
+		
     }
 }
